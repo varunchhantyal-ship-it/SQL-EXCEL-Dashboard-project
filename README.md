@@ -1,1 +1,1 @@
-# SQL-EXCEL-Dashboard-project
+# Pizza_sales_dashboard  This MS-Excel & MY-SQL project is a data driven business intelligence solution developed to analyze and visualize pizza sales data. It helps to uncover insights related to product sales, outlet performance, and customer trends using powerful visualization and interactive charts. 
